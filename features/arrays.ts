@@ -9,6 +9,8 @@ const carsByMake = [['f150'], ['corolla'], ['camaro']];
 const car = carMakers[0];
 const myCar = carMakers.pop();
 
-//help with map
+//help with map with autocomplete!
 
 log(carMakers.map((car) => car + '!'));
+
+const importantDates: (string | Date)[] = [new Date(), '2020'];
