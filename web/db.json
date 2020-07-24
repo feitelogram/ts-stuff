@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "nick-o-lass"
+    },
+    {
+      "name": "bort",
+      "age": 20,
+      "id": 2
+    },
+    {
+      "name": "bort",
+      "age": 20,
+      "id": 3
+    },
+    {
+      "name": "bort",
+      "age": 20,
+      "id": 4
+    },
+    {
+      "name": "nic",
+      "age": 33,
+      "id": 5
+    },
+    {
+      "name": "bort",
+      "age": 20,
+      "id": 6
+    }
+  ]
+}
